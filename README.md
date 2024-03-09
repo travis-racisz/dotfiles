@@ -1,0 +1,2 @@
+# dotfiles
+nixOS dot files 
